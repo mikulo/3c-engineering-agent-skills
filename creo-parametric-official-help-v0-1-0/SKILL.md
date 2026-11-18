@@ -1,5 +1,5 @@
 ---
-name: creo-parametric-official-help-v0-1-0
+name: Creo官方帮助
 description: 基于 PTC 官方帮助、随附的 Creo 12.4.5.0 config.pro 配置选项资料和 PTC Community，核验并回答 Creo Parametric 3–13（尤其 12+）的软件设置、config.pro、绘图 detail/dtl 选项、模板路径及故障排查问题。用户以自然语言提到 Creo 设置、配置项、绘图选项或版本差异时使用；不用于其他 CAD 产品。
 ---
 
