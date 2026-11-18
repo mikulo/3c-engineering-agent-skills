@@ -5,7 +5,7 @@
 ## 技能
 
 | 技能目录 | 调用名称 | 版本 | 适用场景 |
-|---|---:|---|
+|---|---|---:|---|
 | [BOM检查](bom-check-v1-0-0/SKILL.md) | `BOM检查` | 1.0.0 | 3C BOM 表只读审核，以及 Excel 与 STP/STEP 装配核对 |
 | [翻译官](translator-v1-0-0/SKILL.md) | `翻译官` | 1.0.0 | 多语言翻译，支持 `eng`、`kr`、`jp`、`eu`、`fr` 前缀 |
 | [结构设计](structural-design-v1-0-0/SKILL.md) | `结构设计` | 1.0.0 | 3C 产品结构设计与工程评审 |
@@ -14,7 +14,7 @@
 
 ## 版本约定
 
-每个版本使用独立目录，目录名格式为 `<skill-name>-v<major>.<minor>.<patch>`。有不兼容的行为或输出规则变更时递增 major；兼容性扩展递增 minor；修正或澄清递增 patch。保留旧版本目录，便于调用方固定版本。每个版本的 `SKILL.md` 元数据包含对应 `name` 和 `metadata.version`。
+每个版本使用独立目录，目录名格式为 `<skill-name>-v<major>-<minor>-<patch>`，其中 frontmatter `metadata.version` 使用标准语义版本 `<major>.<minor>.<patch>`。有不兼容的行为或输出规则变更时递增 major；兼容性扩展递增 minor；修正或澄清递增 patch。保留旧版本目录，便于调用方固定版本。每个版本的 `SKILL.md` 元数据包含对应 `name` 和 `metadata.version`。
 
 技能目录保持现有 ASCII 名称以兼容路径；frontmatter `name` 使用中文技能名，作为支持中文技能标识的 Agent 中的调用名。
 
