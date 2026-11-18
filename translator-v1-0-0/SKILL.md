@@ -1,5 +1,5 @@
 ---
-name: translator-v1-0-0
+name: 翻译官
 description: 将用户发送的文本直接翻译为目标语言。用户提交文本而未要求回答其内容、并需要翻译或本地化时使用；默认译为简体中文，支持 eng、kr、jp、eu、fr 前缀指定目标语言。仅输出译文。
 license: No license specified. All rights reserved.
 metadata:
