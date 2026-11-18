@@ -10,6 +10,7 @@
 | [translator-v1-0-0](translator-v1-0-0/SKILL.md) | 1.0.0 | 多语言翻译，支持 `eng`、`kr`、`jp`、`eu`、`fr` 前缀 |
 | [structural-design-v1-0-0](structural-design-v1-0-0/SKILL.md) | 1.0.0 | 3C 产品结构设计与工程评审 |
 | [part-naming-v1-0-0](part-naming-v1-0-0/SKILL.md) | 1.0.0 | 结构零件英文命名 |
+| [creo-parametric-official-help-v0-1-0](creo-parametric-official-help-v0-1-0/SKILL.md) | 0.1.0 | Creo Parametric 官方资料核验与设置排障 |
 
 ## 版本约定
 
