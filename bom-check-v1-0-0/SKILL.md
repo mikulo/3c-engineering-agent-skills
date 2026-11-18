@@ -1,5 +1,5 @@
 ---
-name: bom-check-v1-0-0
+name: BOM检查
 description: 审核 3C 电子产品 BOM、料号申请、BOM 申请、ECN/ECR、设计变更和物料描述变更。用户提供 Excel BOM，或 Excel 与 STP/STEP 装配文件并要求检查、核对、找漏料或数量差异时使用。严格只读；不适用于实际修改 BOM。
 license: No license specified. All rights reserved.
 compatibility: 需要能读取用户提供的 Excel；STP 对比需要可用的 OpenCascade/OCP 提取工具及脚本。
