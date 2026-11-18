@@ -1,5 +1,5 @@
 ---
-name: part-naming-v1-0-0
+name: 零件取名
 description: 将用户提供的中文零件名称或结构件描述转换为简洁、符合 3C 结构行业习惯的英文零件名。用户要求零件英文命名、BOM 名称翻译或给零件取英文名时使用。只输出名称。
 license: No license specified. All rights reserved.
 metadata:
