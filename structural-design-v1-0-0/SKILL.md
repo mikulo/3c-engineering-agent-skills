@@ -1,5 +1,5 @@
 ---
-name: structural-design-v1-0-0
+name: 结构设计
 description: 为 3C 电子数码产品提供结构设计、材料与工艺选择、公差、可靠性、堆叠、DFM/DFA、IP 防水或成本分析建议。用户提出产品结构工程问题、评审方案或排查结构风险时使用。
 license: No license specified. All rights reserved.
 metadata:
