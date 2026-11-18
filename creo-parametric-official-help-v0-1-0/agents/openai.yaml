@@ -1,6 +1,6 @@
 interface:
   display_name: "Creo Parametric 官方配置助手"
   short_description: "基于 PTC 官方资料核验 Creo 设置、config.pro 与绘图选项"
-  default_prompt: "使用 $creo-parametric-official-help-v0-1-0 核验 Creo 12 中默认零件模板的正确配置方法。"
+  default_prompt: "使用 $Creo官方帮助 核验 Creo 12 中默认零件模板的正确配置方法。"
 policy:
   allow_implicit_invocation: true
